@@ -1,0 +1,16 @@
+body {
+}
+table {
+	outline-style: dotted;
+	outline-color: red;
+	border-collapse: collapse;
+}
+
+td, th {
+	background-color: #00FFFF;
+	outline-color: yellow;
+	outline-style: solid;
+	padding: 20px;
+	text-align: center;
+}
+
